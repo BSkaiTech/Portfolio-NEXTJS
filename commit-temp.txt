@@ -1,1 +1,2 @@
 Commit at 2019-09-04: Initial commit: Portfolio project setup
+Commit at 2019-09-10: Add initial README and documentation
