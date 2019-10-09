@@ -6,3 +6,4 @@ Commit at 2019-09-24: Setup Tailwind CSS configuration
 Commit at 2019-09-28: Setup Tailwind CSS configuration
 Commit at 2019-10-02: Setup Tailwind CSS configuration
 Commit at 2019-10-03: Add basic project structure
+Commit at 2019-10-09: Add initial README and documentation
