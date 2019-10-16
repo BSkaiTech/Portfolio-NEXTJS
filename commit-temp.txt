@@ -8,3 +8,4 @@ Commit at 2019-10-02: Setup Tailwind CSS configuration
 Commit at 2019-10-03: Add basic project structure
 Commit at 2019-10-09: Add initial README and documentation
 Commit at 2019-10-12: Initialize Next.js project with TypeScript
+Commit at 2019-10-16: Setup Tailwind CSS configuration
