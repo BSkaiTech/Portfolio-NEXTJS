@@ -11,3 +11,4 @@ Commit at 2019-10-12: Initialize Next.js project with TypeScript
 Commit at 2019-10-16: Setup Tailwind CSS configuration
 Commit at 2019-10-21: Initial commit: Portfolio project setup
 Commit at 2019-10-27: Add basic project structure
+Commit at 2019-11-01: Add basic project structure
