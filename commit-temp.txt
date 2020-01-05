@@ -13,3 +13,4 @@ Commit at 2019-10-21: Initial commit: Portfolio project setup
 Commit at 2019-10-27: Add basic project structure
 Commit at 2019-11-01: Add basic project structure
 Commit at 2019-11-05: Initial commit: Portfolio project setup
+Commit at 2020-01-05: Implement hero section with animations
