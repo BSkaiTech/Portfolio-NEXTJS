@@ -15,3 +15,4 @@ Commit at 2019-11-01: Add basic project structure
 Commit at 2019-11-05: Initial commit: Portfolio project setup
 Commit at 2020-01-05: Implement hero section with animations
 Commit at 2020-01-06: Add responsive navigation component
+Commit at 2020-01-08: Add smooth scrolling navigation
