@@ -18,3 +18,4 @@ Commit at 2020-01-06: Add responsive navigation component
 Commit at 2020-01-08: Add smooth scrolling navigation
 Commit at 2020-01-10: Setup Framer Motion for animations
 Commit at 2020-01-11: Add skills section with progress bars
+Commit at 2020-01-16: Implement dark theme styling
