@@ -25,3 +25,4 @@ Commit at 2020-01-23: Implement experience timeline component
 Commit at 2020-01-28: Add skills section with progress bars
 Commit at 2020-02-02: Implement contact form structure
 Commit at 2020-02-06: Implement experience timeline component
+Commit at 2020-02-09: Create basic layout structure
