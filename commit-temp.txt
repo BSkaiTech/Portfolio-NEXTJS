@@ -27,3 +27,4 @@ Commit at 2020-02-02: Implement contact form structure
 Commit at 2020-02-06: Implement experience timeline component
 Commit at 2020-02-09: Create basic layout structure
 Commit at 2020-02-12: Add basic styling and color scheme
+Commit at 2020-02-16: Implement dark theme styling
