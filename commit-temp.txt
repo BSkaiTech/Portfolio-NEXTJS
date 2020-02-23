@@ -29,3 +29,4 @@ Commit at 2020-02-09: Create basic layout structure
 Commit at 2020-02-12: Add basic styling and color scheme
 Commit at 2020-02-16: Implement dark theme styling
 Commit at 2020-02-19: Setup responsive design breakpoints
+Commit at 2020-02-23: Create basic layout structure
