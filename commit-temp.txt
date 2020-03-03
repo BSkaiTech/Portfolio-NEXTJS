@@ -33,3 +33,4 @@ Commit at 2020-02-23: Create basic layout structure
 Commit at 2020-02-24: Add footer with social links
 Commit at 2020-02-26: Add responsive navigation component
 Commit at 2020-02-29: Add responsive navigation component
+Commit at 2020-03-03: Implement experience timeline component
