@@ -38,3 +38,4 @@ Commit at 2020-03-07: Create projects showcase grid
 Commit at 2020-03-11: Add responsive navigation component
 Commit at 2020-03-16: Implement experience timeline component
 Commit at 2020-03-19: Add footer with social links
+Commit at 2020-07-09: Add detailed project descriptions
