@@ -44,3 +44,4 @@ Commit at 2020-07-20: Add social media links
 Commit at 2020-07-28: Add research publications section
 Commit at 2020-08-01: Update resume download link
 Commit at 2020-08-06: Include detailed achievement metrics
+Commit at 2020-08-12: Add research publications section
