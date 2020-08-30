@@ -48,3 +48,4 @@ Commit at 2020-08-12: Add research publications section
 Commit at 2020-08-20: Include AI Lab research experience
 Commit at 2020-08-23: Update experience with Viettel AI details
 Commit at 2020-08-28: Include contact information
+Commit at 2020-08-30: Add technology stack details
