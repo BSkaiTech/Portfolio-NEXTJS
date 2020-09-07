@@ -50,3 +50,4 @@ Commit at 2020-08-23: Update experience with Viettel AI details
 Commit at 2020-08-28: Include contact information
 Commit at 2020-08-30: Add technology stack details
 Commit at 2020-09-02: Include AI Lab research experience
+Commit at 2020-09-07: Add project screenshots and media
