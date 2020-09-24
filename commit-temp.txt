@@ -54,3 +54,4 @@ Commit at 2020-09-07: Add project screenshots and media
 Commit at 2020-09-15: Add certifications and achievements
 Commit at 2020-09-17: Add project screenshots and media
 Commit at 2020-09-20: Add detailed project descriptions
+Commit at 2020-09-24: Add research publications section
