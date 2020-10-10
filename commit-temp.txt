@@ -57,3 +57,4 @@ Commit at 2020-09-20: Add detailed project descriptions
 Commit at 2020-09-24: Add research publications section
 Commit at 2020-09-27: Update resume download link
 Commit at 2020-10-03: Update resume download link
+Commit at 2020-10-10: Include contact information
