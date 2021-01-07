@@ -61,3 +61,4 @@ Commit at 2020-10-10: Include contact information
 Commit at 2021-01-04: Create mobile menu functionality
 Commit at 2021-01-05: Add typing animation for roles
 Commit at 2021-01-06: Add typing animation for roles
+Commit at 2021-01-07: Add accessibility improvements
