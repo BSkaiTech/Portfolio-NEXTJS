@@ -63,3 +63,4 @@ Commit at 2021-01-05: Add typing animation for roles
 Commit at 2021-01-06: Add typing animation for roles
 Commit at 2021-01-07: Add accessibility improvements
 Commit at 2021-01-08: Create hover effects and transitions
+Commit at 2021-01-09: Implement interactive animations
