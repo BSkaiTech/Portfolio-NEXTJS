@@ -66,3 +66,4 @@ Commit at 2021-01-08: Create hover effects and transitions
 Commit at 2021-01-09: Implement interactive animations
 Commit at 2021-01-12: Add smooth page transitions
 Commit at 2021-01-14: Add smooth page transitions
+Commit at 2021-01-18: Create custom scrollbar styling
