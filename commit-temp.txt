@@ -73,3 +73,4 @@ Commit at 2021-01-23: Implement interactive animations
 Commit at 2021-01-26: Create responsive image handling
 Commit at 2021-01-30: Implement lazy loading for images
 Commit at 2021-02-02: Add typing animation for roles
+Commit at 2021-02-05: Add scroll-triggered animations
