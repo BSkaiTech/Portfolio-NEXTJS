@@ -77,3 +77,4 @@ Commit at 2021-02-05: Add scroll-triggered animations
 Commit at 2021-02-09: Create hover effects and transitions
 Commit at 2021-02-10: Add typing animation for roles
 Commit at 2021-02-12: Implement interactive animations
+Commit at 2021-02-14: Add performance optimizations
