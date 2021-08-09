@@ -99,3 +99,4 @@ Commit at 2021-07-24: Add SEO meta tags and structured data
 Commit at 2021-07-30: Optimize animations for performance
 Commit at 2021-08-04: Add image optimization
 Commit at 2021-08-06: Add image optimization
+Commit at 2021-08-09: Add caching strategies
