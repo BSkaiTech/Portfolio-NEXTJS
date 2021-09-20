@@ -107,3 +107,4 @@ Commit at 2021-08-31: Add image optimization
 Commit at 2021-09-05: Optimize animations for performance
 Commit at 2021-09-10: Optimize bundle size and performance
 Commit at 2021-09-16: Implement dark mode toggle
+Commit at 2021-09-20: Add keyboard navigation support
