@@ -122,3 +122,4 @@ Commit at 2022-02-09: Improve accessibility compliance
 Commit at 2022-02-15: Polish overall visual design
 Commit at 2022-02-20: Add loading states for all interactions
 Commit at 2022-02-28: Polish overall visual design
+Commit at 2022-03-09: Add micro-interactions
