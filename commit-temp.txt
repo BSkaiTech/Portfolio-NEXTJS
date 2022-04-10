@@ -127,3 +127,4 @@ Commit at 2022-03-16: Add focus indicators
 Commit at 2022-03-19: Polish overall visual design
 Commit at 2022-03-25: Add hover states for all interactive elements
 Commit at 2022-04-01: Polish animations and transitions
+Commit at 2022-04-10: Improve form UX and validation
