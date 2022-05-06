@@ -133,3 +133,4 @@ Commit at 2022-04-18: Add hover states for all interactive elements
 Commit at 2022-04-21: Add scroll-to-top functionality
 Commit at 2022-04-27: Add micro-interactions
 Commit at 2022-04-30: Create consistent spacing system
+Commit at 2022-05-06: Add scroll-to-top functionality
