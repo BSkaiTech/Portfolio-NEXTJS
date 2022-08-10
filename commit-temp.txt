@@ -146,3 +146,4 @@ Commit at 2022-07-17: Create consistent button styles
 Commit at 2022-07-20: Update color scheme and typography
 Commit at 2022-07-25: Add hover states for all interactive elements
 Commit at 2022-08-04: Add scroll-to-top functionality
+Commit at 2022-08-10: Add scroll-to-top functionality
