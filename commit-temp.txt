@@ -169,3 +169,4 @@ Commit at 2023-03-20: Add sitemap generation
 Commit at 2023-03-27: Final deployment preparation
 Commit at 2023-03-29: Configure build settings
 Commit at 2023-07-18: Update content and information
+Commit at 2023-08-03: Fix minor bugs and issues
