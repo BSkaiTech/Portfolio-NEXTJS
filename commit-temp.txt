@@ -201,3 +201,4 @@ Commit at 2024-10-18: Final polish and improvements
 Commit at 2024-11-02: Add new features and improvements
 Commit at 2024-11-21: Update documentation
 Commit at 2024-12-04: Add new features and improvements
+Commit at 2024-12-12: Fix minor bugs and issues
