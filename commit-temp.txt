@@ -212,3 +212,4 @@ Commit at 2025-03-08: Update dependencies and security patches
 Commit at 2025-03-15: Final polish and improvements
 Commit at 2025-04-01: Add new features and improvements
 Commit at 2025-04-11: Add new features and improvements
+Commit at 2025-04-21: Update documentation
